@@ -15,8 +15,8 @@ Preuzmite datoteku [Hrvatski.json](https://github.com/DominikNovosel/Storyboarde
 ![image](https://github.com/user-attachments/assets/dec895e7-5ef8-4e16-8bda-097907f80250)
 
 <br>
-©2024 Dominik Novosel
-<br>
+©2025 Dominik Novosel
+<br><br>
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
